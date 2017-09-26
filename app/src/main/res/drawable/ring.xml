@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    https://stackoverflow.com/questions/17216360/ring-shape-in-android
+-->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:innerRadius="75dp"
+    android:thickness="10dp"
+    android:useLevel="false" >
+    <solid android:color="@color/colorBlack" />
+</shape>

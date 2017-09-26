@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XML Drawable Example</string>
+    <string name="mainText">Isn\'t XML fun!</string>
+</resources>

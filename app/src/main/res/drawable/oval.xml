@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    http://www.vogella.com/tutorials/AndroidDrawables/article.html#xml-drawables
+-->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <stroke
+        android:width="2dp"
+        android:color="@color/colorBlack" />
+    <gradient
+        android:endColor="@color/colorRed"
+        android:startColor="@color/colorOrange"
+        android:angle="90" />
+</shape>
